@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">CheckServiceProvider</string>
+    <string name="add_number">Введите номер начиная с 38xxx</string>
+
+    <string name="country">Украина</string>
+    <!--DIF_CODE-->
+    <string name="zakarpatje">Закарпатская область</string>
+    <string name="lvov">Львовская область</string>
+    <string name="volin">Волынская область</string>
+    <string name="ivano_frankovsk">Ивано-Франковская область</string>
+    <string name="rovno">Ровенская область</string>
+    <string name="chernovci">Черновицкая область</string>
+    <string name="khmelmitsk">Хмельницкая область</string>
+    <string name="zitomir">Житомирская область</string>
+    <string name="vinnica">Винницкая область</string>
+    <string name="kiev_obl">Киевская область</string>
+    <string name="kiev">Киев</string>
+    <string name="chernogov">Черниговская область</string>
+    <string name="cherkassi">Черкасская область</string>
+    <string name="odessa">Одесская область</string>
+    <string name="nikolaev">Николаевская область</string>
+    <string name="kirovograd">Кировоградская область</string>
+    <string name="poltava">Полтавская область</string>
+    <string name="sumi">Сумская область</string>
+    <string name="kherson">Херсонская область</string>
+    <string name="dnepropetrovks">Днепропетровская область</string>
+    <string name="kharkov">Харьковская область</string>
+    <string name="zaporozie">Запорожская область</string>
+    <string name="donetsk">Донецкая область</string>
+    <string name="lugansk">Луганская область</string>
+    <string name="sip_telefony">SIP-Телефония</string>
+    <string name="headerHint">Проверочные коды</string>
+
+    <string-array name="def_code_hint">
+        <item>(057) 75[5–7]</item>
+        <item>(057) 78[0–9]</item>
+        <item>(057) 750[0–9]</item>
+        <item>(057) 768[0–9]</item>
+        <item>(032) 246[0–9]</item>
+        <item>(032) 254[0–9]</item>
+        <item>(032) 256[0–9]</item>
+        <item>(032) 29[8–9][0–8]</item>
+        <item>(039)</item>
+        <item>(050)</item>
+        <item>(063)</item>
+        <item>(066)</item>
+        <item>(067)</item>
+        <item>(068)</item>
+        <item>(073)</item>
+        <item>(090)</item>
+        <item>(091)</item>
+        <item>(092)</item>
+        <item>(093)</item>
+        <item>(094)</item>
+        <item>(095)</item>
+        <item>(096)</item>
+        <item>(097)</item>
+        <item>(098)</item>
+        <item>(099)</item>
+    </string-array>
+</resources>
