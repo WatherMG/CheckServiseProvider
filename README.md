@@ -1,2 +1,2 @@
 # CheckServiseProvider
-http://i.giphy.com/xW4SJvlgXhVlu.gif
+![alt tag](http://i.giphy.com/xW4SJvlgXhVlu.gif)
